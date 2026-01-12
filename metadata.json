@@ -1,0 +1,7 @@
+{
+  "name": "R-Pass Prep Chile",
+  "description": "Una aplicación premium para la preparación del examen de operador de drones (RPAS) en Chile, con simulacros, decodificador METAR educativo y seguimiento de progreso detallado.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
